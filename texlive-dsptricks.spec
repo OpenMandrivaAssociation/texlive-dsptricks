@@ -1,6 +1,6 @@
 Name:		texlive-dsptricks
-Version:	34724
-Release:	2
+Version:	68753
+Release:	1
 Summary:	Macros for Digital Signal Processing plots
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dsptricks
