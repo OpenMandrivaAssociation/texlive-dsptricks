@@ -3,7 +3,7 @@ Version:	68753
 Release:	1
 Summary:	Macros for Digital Signal Processing plots
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dsptricks
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dsptricks
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dsptricks.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dsptricks.doc.r%{version}.tar.xz
